@@ -1,0 +1,25 @@
+* {
+  font-family: Arial, Helvetica, sans-serif
+}
+
+h3 {
+  color: red;
+  font-family: 'Times New Roman', Times, serif
+}
+
+.slanted {
+  font-style: italic;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif
+}
+
+h6 {
+  color: aqua;
+  background-color: black
+}
+
+h2 {
+  font-weight: normal
+}
